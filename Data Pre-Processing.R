@@ -1,7 +1,3 @@
-# Set working directory
-setwd("C:/Users/Nik/Desktop/R File Thesis")
-
-
 # Load necessary libraries
 library(readr)
 library(dplyr)
